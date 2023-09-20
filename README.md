@@ -1,5 +1,7 @@
 # hw-02-Vitaly
 Homework
+|Type|Size|Example|Minimal value|Maximum value|
+|----------|----------|----------|----------|----------|
 |System.Byte|1|12|255|0|
 |System.SByte|1|12|127|-128|
 |System.Int16|2|12|32767|-32768|
